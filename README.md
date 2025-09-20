@@ -71,6 +71,7 @@
     <a href="#"><img alt="Data Structures & Algorithms" src="https://img.shields.io/badge/DSA-FD8404?style=for-the-badge&logo=hackerrank&logoColor=white"></a>
     <a href="#"><img alt="DBMS" src="https://img.shields.io/badge/DBMS-F29111?style=for-the-badge&logo=oracle&logoColor=white"></a>
     <a href="#"><img alt="Operating Systems" src="https://img.shields.io/badge/OS-72a347?style=for-the-badge&logo=linux&logoColor=white"></a>
+    <a href="#"><img alt="Computer Networks" src="https://img.shields.io/badge/Computer_Networks-007ACC?style=for-the-badge&logo=cisco&logoColor=white"></a>
     <a href="#"><img alt="System Design" src="https://img.shields.io/badge/System_Design-555555?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
@@ -84,6 +85,9 @@
 <p align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
+<p align="left">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=sumitnawde10&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+</p>
 
 ---
 
@@ -93,6 +97,7 @@
   <a href="https://www.linkedin.com/in/sumitnawde/">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  
   <a href="mailto:sumitnawde2004@gmail.com">
     <img alt="Email" src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
