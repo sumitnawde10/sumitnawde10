@@ -80,20 +80,13 @@
 ### 📊 My GitHub Stats
 
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api?username=sumitnawde10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/?username=sumitnawde10&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
 </p>
+
 <p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/stars/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Stars" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/contributions/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Contributions" />
-</p>
-<p align="left">
-    <img src="https://github-readme-stats.vercel.app/api/forks/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="GitHub Forks" />
-</p>
+
 ---
 
 ### 🤝 Let's Connect!
