@@ -75,15 +75,12 @@
     <a href="#"><img alt="System Design" src="https://img.shields.io/badge/System_Design-555555?style=for-the-badge&logo=google-cloud&logoColor=white"></a>
 </p>
 
----
-
-### 📊 My GitHub Stats
-
-<p align="left">
+<!-- <p align="left">
     <img src="https://github-readme-stats.vercel.app/api?username=sumitnawde10&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    ### 📊 My GitHub Stats
     <br>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-</p>
+</p> -->
 
 ---
 
