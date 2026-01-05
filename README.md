@@ -77,24 +77,6 @@
 
 ---
 
-<h2 align="center">📊 GitHub Stats</h2>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=sumitnawde10&show_icons=true&theme=tokyonight"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
-<p align="left">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&layout=compact&theme=tokyonight"
-    referrerpolicy="no-referrer"
-  />
-</p>
-
----
-
 ### 🤝 Let's Connect!
 
 <p align="center">
