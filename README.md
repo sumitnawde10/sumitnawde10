@@ -77,6 +77,14 @@
 
 ---
 
+### GitHub Stats
+
+![sumitnawde10's Stats](https://github-readme-stats.vercel.app/api?username=sumitnawde10&theme=blue-green&show_icons=true&hide_border=false&count_private=true)\
+![sumitnawde10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitnawde10&theme=blue-green&hide_border=false)\
+![sumitnawde10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+
+---
+
 ### 🤝 Let's Connect!
 
 <p align="center">
