@@ -77,7 +77,7 @@
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Stats
 
 ![sumitnawde10's Stats](https://github-readme-stats.vercel.app/api?username=sumitnawde10&theme=blue-green&show_icons=true&hide_border=false&count_private=true)\
 ![sumitnawde10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitnawde10&theme=blue-green&hide_border=false)\
