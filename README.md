@@ -14,6 +14,7 @@
 
 ### 👨‍💻 About Me
 
+- 🚀 &nbsp; Junior SDE Intern at GenbioCa.
 - 🎓 &nbsp; Currently pursuing a B.Tech in **Computer Engineering** at Ramrao Adik Institute of Technology, Navi Mumbai.
 - 💻 &nbsp; Passionate Full Stack Developer and Data Analyst with a focus on **Python frameworks**.
 - 🧠 &nbsp; Currently exploring the fascinating fields of **Data Science and Machine Learning**.
@@ -79,9 +80,8 @@
 
 ### 📊 GitHub Stats
 
-![sumitnawde10's Stats](https://github-readme-stats.vercel.app/api?username=sumitnawde10&theme=blue-green&show_icons=true&hide_border=false&count_private=true)\
-![sumitnawde10's Streak](https://github-readme-streak-stats.herokuapp.com/?user=sumitnawde10&theme=blue-green&hide_border=false)\
-![sumitnawde10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde10&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=sumitnawde10&theme=blue-green)](https://git.io/streak-stats)\
+![sumitnawde10's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sumitnawde&theme=blue-green&show_icons=true&hide_border=false&layout=compact)
 
 ---
 
